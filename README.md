@@ -7,7 +7,7 @@ The programs should run without mishap in your favorite Python environment, as l
 Annotations include comments in code, but each chapter also contains _README.md_ and _usefulStuff.md_ files (the latter contains curated excerpts from PySide documentation and links from other relevant resources). When possible, we link to PySide documentation, but sometimes we have to go with Qt or PyQt when it is better.
 
 Thanks to Mark Summerfield for encouragement, suggestions for improvement in innumerable places.
-  
+<a href="https://ia903202.us.archive.org/31/items/python_ebooks_2020/rapid_gui_programming_with_python_and_qt.pdf">Rapid Gui Programming With Python and QT</a>  
 
 ## Table of contents
 **Chapter 4**: <a href="https://github.com/EricThomson/PySideSummer/tree/master/Chapter4">Introduction to GUI Programming</a>
